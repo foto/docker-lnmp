@@ -1,5 +1,5 @@
 /data/mysql/*
-/data/redis/date/*
+/data/redis/data/*
 /log/*
 /www/*
 
