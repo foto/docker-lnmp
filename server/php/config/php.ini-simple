@@ -1,0 +1,20 @@
+[PHP]
+
+;;;;;;;;;;;;;;;;;;;
+; About php.ini   ;
+;;;;;;;;;;;;;;;;;;;
+
+;隐藏 php签名信息
+expose_php = Off;
+
+;打开上传功能
+file_uploads = On;
+
+; 上传文件大小
+upload_max_filesize = 10M;
+
+;http 上传大小
+post_max_size = 12M;
+
+;远程执行
+allow_url_fopen = Off;
